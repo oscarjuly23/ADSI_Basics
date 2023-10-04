@@ -12,7 +12,7 @@ Introduction to Active Directory Service Interfaces [2017/18]
 - Uso de PowerShell: Descubrimos cómo aprovechar PowerShell para llevar a cabo diversas utilidades de administración de sistemas operativos. Automatizar tareas, realizar diagnósticos y mucho más.
 - Uso de Flags y Otras Funcionalidades: Aprendemos sobre el uso de flags y otras funcionalidades avanzadas de administración, permitiéndote una mayor flexibilidad en la gestión de sistemas operativos.
 
-#### [Ejercicios ADSI-1](https://github.com/oscarjuly23/Java_Basics/tree/main/Arrays_I):
+#### [Ejercicios ADSI-1](https://github.com/oscarjuly23/ADSI_Basics/tree/main/ADSI-1_Oscar):
 Script que con un menú que permite hacer las diferentes acciones sobre usuarios y grupos. Otro script que permite ver de forma automática los flags asociados a un determinado usuario, resaltando los más significativos.
 
 ### Parte II:
@@ -20,7 +20,7 @@ Script que con un menú que permite hacer las diferentes acciones sobre usuarios
 - Conexión de Usuarios: Descubrirás cómo realizar conexiones de usuarios al servicio de directorio, autenticándolos de manera segura y gestionando sus permisos y roles.
 - Conexiones Avanzadas: Explorarás diversas técnicas de conexión, incluyendo la conexión a la raíz del dominio actual, la conexión a un catálogo global y la conexión a un dominio remoto a través de un usuario específico. Estas habilidades te permitirán administrar entornos distribuidos de manera efectiva.
 - Búsqueda de Objetos: Aprenderás a realizar búsquedas de objetos dentro del servicio de directorio, permitiéndote localizar y acceder a información específica de manera rápida y eficiente.
-#### [Ejercicios ADSI-2](https://github.com/oscarjuly23/Java_Basics/tree/main/Arrays_I):
+#### [Ejercicios ADSI-2](https://github.com/oscarjuly23/ADSI_Basics/tree/main/ADSI-2_Oscar):
 Script con diferentes aplicaciones: Crear una unidad organizativa, Renombrar una unidad organizativa, Mover objetos entre unidades organizativas, Eliminar una unidad organizativa. Otro para la administración de grupos, crear grupo, Asignar varios miembros a un grupo, Renombrar un grupo, Eliminar un grupo. Otro script para administrar usuarios:  Crear un Usuario, Asignar una contraseña a un usuario ya existente, Activar una cuenta de usuario, Eliminar un usuario.
 
 ## 
